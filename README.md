@@ -1,102 +1,78 @@
-    <div align="center">
-      <img src="https://capsule-render.vercel.
-  app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20jhun-kim&fontSize=70"
-  />
-    </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20jhun-kim&fontSize=70" />
+</div>
 
-    <div align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+
-  Code&pause=1000&color=36BCF7&width=500&lines=AI+Product+Engineer+(3rd+Year);Forward+Deployed+
-  Engineer+@+Daehwa+MP;LLM+Orchestration+%26+Agentic+RAG" alt="Typing SVG" />
-    </div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=AI+Product+Engineer+(3rd+Year);Forward+Deployed+Engineer+@+Daehwa+MP;LLM+Orchestration+%26+Agentic+RAG" alt="Typing SVG" />
+</div>
 
-    <br>
+<br>
 
-    ## 📌 Introduction
-    > **"실질적인 비즈니스 가치를 창출하는 3년차 AI Product Engineer이자, 새로운 AI 시대를 현장에서
-  고객 맞춤형으로 구현하는 FDE(Forward Deployed Engineer)입니다."**
+## 📌 Introduction
+> **"실질적인 비즈니스 가치를 창출하는 3년차 AI Product Engineer이자, 새로운 AI 시대를 현장에서 고객 맞춤형으로 구현하는 FDE(Forward Deployed Engineer)입니다."**
 
-    - 🏢 **Current:** **대화엠피** - FDE (Forward Deployed Engineer) / AI Product Engineer (3년차)
-    - 🎓 **Education:** [새싹 x 업스테이지] AI 에이전트 개발 과정 수료 (2025.12 ~ 2026.05)
-    - 🔭 **Focus:** LangGraph/CrewAI 기반의 워크플로우 제어, Agentic RAG 고도화, Enterprise AI 솔루션
-  구축
-    - 💬 **Interests:** 자율형 업무 자동화, LLM 기반 멀티 에이전트 협업 시스템, 비즈니스 최적화
+- 🏢 **Current:** **대화엠피** - FDE (Forward Deployed Engineer) / AI Product Engineer (3년차)
+- 🎓 **Education:** [새싹 x 업스테이지] AI 에이전트 개발 과정 수료 (2025.12 ~ 2026.05)
+- 🔭 **Focus:** LangGraph/CrewAI 기반의 워크플로우 제어, Agentic RAG 고도화, Enterprise AI 솔루션 구축
+- 💬 **Interests:** 자율형 업무 자동화, LLM 기반 멀티 에이전트 협업 시스템, 비즈니스 최적화
 
-    <br>
+<br>
 
-    ## 🛠 Tech Stack
+## 🛠 Tech Stack
 
-    ### 🧠 AI & Frameworks
-    <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-
-  badge&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-
-  badge&logo=chainlink&logoColor=white">
-      <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-
-  badge&logo=langchain&logoColor=white">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-
-  badge&logo=openai&logoColor=white">
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-
-  badge&logo=fastapi&logoColor=white">
-    </p>
+### 🧠 AI & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
+</p>
 
-    ### 💾 Database & DevOps
-    <p>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-
-  badge&logo=postgresql&logoColor=white">
-      <img src="https://img.shields.io/badge/ChromaDB-007ACC?style=for-the-
-  badge&logo=sqlite&logoColor=white">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-
-  badge&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-
-  badge&logo=git&logoColor=white">
-    </p>
+### 💾 Database & DevOps
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/ChromaDB-007ACC?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
-    <br>
+<br>
 
-    ## 🚀 Recent Projects
+## 🚀 Recent Projects
 
-    | Project | Description | Tech Stack |
-    | :--- | :--- | :--- |
-    | **[Enterprise AI Deployment]** | 대화엠피 비즈니스 솔루션 설계 및 FDE 구축 | `LangGraph`,
-  `FastAPI`, `Docker` |
-    | **[프로젝트A]** | AI 자율 뉴스 수집 및 요약 에이전트 | `CrewAI`, `GPT-4o` |
-    | **[프로젝트B]** | RAG 기반 기업 내부 문서 Q&A 시스템 | `LangChain`, `ChromaDB` |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Enterprise AI Deployment]** | 대화엠피 비즈니스 솔루션 설계 및 FDE 구축 | `LangGraph`, `FastAPI`, `Docker` |
+| **[프로젝트A]** | AI 자율 뉴스 수집 및 요약 에이전트 | `CrewAI`, `GPT-4o` |
+| **[프로젝트B]** | RAG 기반 기업 내부 문서 Q&A 시스템 | `LangChain`, `ChromaDB` |
 
-    <br>
+<br>
 
-    ## 📊 GitHub Stats (Real-time)
-    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jhun-
-  kim&show_icons=true&theme=radical" alt="GitHub Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhun-
-  kim&layout=compact&theme=radical" alt="Top Langs" />
-    </div>
+## 📊 GitHub Stats (Real-time)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhun-kim&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhun-kim&layout=compact&theme=radical" alt="Top Langs" />
+</div>
 
-    <br>
+<br>
 
-    ## 📈 Contribution Graph
-    <div align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhun-kim&theme=react-
-  dark" width="100%" />
-    </div>
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhun-kim&theme=react-dark" width="100%" />
+</div>
 
-    <br>
+<br>
 
-    ## 📫 Connect with Me
-    <div align="center">
-      <a href="mailto:[이메일]"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-
-  square&logo=Gmail&logoColor=white"/></a>
-      <a href="[블로그링크]"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-
-  square&logo=Tistory&logoColor=white"/></a>
-      <a href="[링크드인링크]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-
-  square&logo=LinkedIn&logoColor=white"/></a>
-    </div>
+## 📫 Connect with Me
+<div align="center">
+  <a href="mailto:[이메일]"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="[블로그링크]"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="[링크드인링크]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+</div>
 
-    <br>
+<br>
 
-    <div align="center">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.
-  com%2Fjhun-
-  kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-    </div>
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhun-kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+</div>
